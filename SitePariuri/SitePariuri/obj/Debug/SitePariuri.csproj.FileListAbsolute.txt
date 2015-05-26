@@ -1,0 +1,160 @@
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\SitePariuri.dll.config
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\SitePariuri.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\SitePariuri.pdb
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\Antlr3.Runtime.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\DotNetOpenAuth.AspNet.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\DotNetOpenAuth.Core.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\DotNetOpenAuth.OAuth.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\DotNetOpenAuth.OpenId.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\EntityFramework.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\Microsoft.Data.Edm.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\Microsoft.Data.OData.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\Microsoft.Web.Infrastructure.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\Newtonsoft.Json.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\System.Spatial.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\System.Web.Helpers.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\System.Web.Http.OData.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\System.Web.Mvc.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\System.Web.Optimization.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\System.Web.Razor.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\System.Web.WebPages.Deployment.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\System.Web.WebPages.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\System.Web.WebPages.Razor.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\WebGrease.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\WebMatrix.Data.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\WebMatrix.WebData.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\EntityFramework.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\Newtonsoft.Json.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\System.Web.Helpers.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\System.Web.Mvc.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\System.Web.Razor.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\System.Web.WebPages.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\System.Web.WebPages.Deployment.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\System.Web.WebPages.Razor.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\WebMatrix.Data.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\WebMatrix.WebData.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\DotNetOpenAuth.AspNet.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\DotNetOpenAuth.Core.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\DotNetOpenAuth.OAuth.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\DotNetOpenAuth.OpenId.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\System.Web.Http.OData.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\Microsoft.Data.Edm.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\Microsoft.Data.OData.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\System.Spatial.xml
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\de\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\es\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\it\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\de\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\es\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\fr\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\it\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\ja\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\ko\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\ru\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\zh-Hans\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\bin\zh-Hant\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\obj\Debug\SitePariuri.dll
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\obj\Debug\SitePariuri.pdb
+E:\Facultate\An 3 - S II\Facultate\PS\Proiect\SitePariuri\SitePariuri\obj\Debug\SitePariuri.csprojResolveAssemblyReference.cache
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\SitePariuri.dll.config
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\SitePariuri.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\SitePariuri.pdb
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\Antlr3.Runtime.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\DotNetOpenAuth.AspNet.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\DotNetOpenAuth.Core.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\DotNetOpenAuth.OAuth.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\DotNetOpenAuth.OpenId.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\EntityFramework.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\Microsoft.Data.Edm.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\Microsoft.Data.OData.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\Microsoft.Web.Infrastructure.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\Newtonsoft.Json.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\System.Spatial.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\System.Web.Helpers.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\System.Web.Http.OData.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\System.Web.Mvc.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\System.Web.Optimization.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\System.Web.Razor.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\System.Web.WebPages.Deployment.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\System.Web.WebPages.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\System.Web.WebPages.Razor.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\WebGrease.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\WebMatrix.Data.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\WebMatrix.WebData.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\EntityFramework.xml
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\Newtonsoft.Json.xml
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\System.Web.Helpers.xml
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\System.Web.Mvc.xml
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\System.Web.Razor.xml
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\System.Web.WebPages.xml
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\System.Web.WebPages.Deployment.xml
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\System.Web.WebPages.Razor.xml
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\WebMatrix.Data.xml
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\WebMatrix.WebData.xml
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\DotNetOpenAuth.AspNet.xml
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\DotNetOpenAuth.Core.xml
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\DotNetOpenAuth.OAuth.xml
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\DotNetOpenAuth.OpenId.xml
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\System.Web.Http.OData.xml
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\Microsoft.Data.Edm.xml
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\Microsoft.Data.OData.xml
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\System.Spatial.xml
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\de\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\es\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\it\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\de\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\es\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\fr\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\it\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\ja\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\ko\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\ru\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\zh-Hans\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\bin\zh-Hant\System.Spatial.resources.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\obj\Debug\SitePariuri.csprojResolveAssemblyReference.cache
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\obj\Debug\SitePariuri.dll
+E:\Facultate\An 3 - S II\Facultate\PS (Proiectarea software)\Proiect\SitePariuri\SitePariuri\obj\Debug\SitePariuri.pdb

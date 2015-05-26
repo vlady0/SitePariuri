@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Adauga pe Bilet";
+}
+
+<h2>Meci adaugat</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Meci</legend>
+               
+            @Html.ActionLink("OK - Inapoi la pagina principala", "Index")
+        
+    </fieldset>
+}

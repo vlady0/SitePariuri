@@ -1,0 +1,174 @@
+﻿@model SitePariuri.Models.Meci
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Meci</legend>
+
+        @Html.HiddenFor(model => model.ID)
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.codMeci)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.codMeci)
+            @Html.ValidationMessageFor(model => model.codMeci)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.data)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.data)
+            @Html.ValidationMessageFor(model => model.data)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.echipe)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.echipe)
+            @Html.ValidationMessageFor(model => model.echipe)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.tip1)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.tip1)
+            @Html.ValidationMessageFor(model => model.tip1)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.tip2)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.tip2)
+            @Html.ValidationMessageFor(model => model.tip2)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.tipX)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.tipX)
+            @Html.ValidationMessageFor(model => model.tipX)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.tip1X)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.tip1X)
+            @Html.ValidationMessageFor(model => model.tip1X)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.tipX2)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.tipX2)
+            @Html.ValidationMessageFor(model => model.tipX2)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.tip12)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.tip12)
+            @Html.ValidationMessageFor(model => model.tip12)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.pauzaSauFinal1)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.pauzaSauFinal1)
+            @Html.ValidationMessageFor(model => model.pauzaSauFinal1)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.pauzaSauFinal2)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.pauzaSauFinal2)
+            @Html.ValidationMessageFor(model => model.pauzaSauFinal2)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.pauzaSauFinalX)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.pauzaSauFinalX)
+            @Html.ValidationMessageFor(model => model.pauzaSauFinalX)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.sub3Goluri)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.sub3Goluri)
+            @Html.ValidationMessageFor(model => model.sub3Goluri)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.peste3Goluri)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.peste3Goluri)
+            @Html.ValidationMessageFor(model => model.peste3Goluri)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ambeleMarcheaza)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ambeleMarcheaza)
+            @Html.ValidationMessageFor(model => model.ambeleMarcheaza)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.nuMarcheazaAmbele)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.nuMarcheazaAmbele)
+            @Html.ValidationMessageFor(model => model.nuMarcheazaAmbele)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.castigaAmbeleReprize1)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.castigaAmbeleReprize1)
+            @Html.ValidationMessageFor(model => model.castigaAmbeleReprize1)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.castigaAmbeleReprize2)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.castigaAmbeleReprize2)
+            @Html.ValidationMessageFor(model => model.castigaAmbeleReprize2)
+        </div>
+
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

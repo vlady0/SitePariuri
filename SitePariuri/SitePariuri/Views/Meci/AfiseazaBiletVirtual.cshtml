@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "AfiseazaBiletVirtual";
+}
+
+<h2>Biletul virtual</h2>
+
+<p>@ViewBag.Message</p>
+
+
+<form action="genereazaBilet">
+    Introduceti miza: <input type="text" name="miza" value="2.0">
+    <br><br>
+    <input type="submit" value="Genereaza bilet virtual">
+</form> 
+
+<p>@Html.ActionLink("Inapoi la pagina principala", "Index")</p>

@@ -1,0 +1,98 @@
+﻿@model IEnumerable<SitePariuri.Models.Meci>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+            <b>@Html.Name("Cod") </b>
+        </th>
+        <th>
+            <b>@Html.Name("Data") </b>
+        </th>
+        <th>
+            <b>@Html.Name("Echipe") </b>
+        </th>
+        <th>
+            <b>@Html.Name("1") </b>
+        </th>
+        <th>
+            <b>@Html.Name("2") </b>
+        </th>
+        <th>
+            <b>@Html.Name("X") </b>
+        </th>
+        <th>
+            <b>@Html.Name("1X") </b>
+        </th>
+        <th>
+            <b>@Html.Name("X2") </b>
+        </th>
+        <th>
+            <b>@Html.Name("12") </b>
+        </th>
+        <th>
+            <b>@Html.Name("Toate") </b>
+        </th>
+
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.codMeci)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.data)
+        </td>
+        <td>
+            @Html.ActionLink(item.echipe, "Details", new { id = item.ID })
+            @*@Html.DisplayFor(modelItem => item.echipe)*@
+        </td>
+        <td>
+            @*@Html.DisplayFor(modelItem => item.tip1)*@  
+            @Html.ActionLink(item.tip1.ToString(), "AdaugaPeBilet", new { id = item.ID, cota = item.tip1 })            
+        </td>
+        <td>
+            @*@Html.DisplayFor(modelItem => item.tip2)*@
+            @Html.ActionLink(item.tip2.ToString(), "AdaugaPeBilet", new { id = item.ID, cota = item.tip2 })
+            
+        </td>
+        <td>            
+            @Html.ActionLink(item.tipX.ToString(), "AdaugaPeBilet", new { id = item.ID, cota = item.tipX })
+            
+        </td>
+        <td>
+            @Html.ActionLink(item.tip1X.ToString(), "AdaugaPeBilet", new { id = item.ID, cota = item.tip1X })            
+        </td>
+        <td>
+            @Html.ActionLink(item.tipX2.ToString(), "AdaugaPeBilet", new { id = item.ID, cota = item.tipX2 })            
+        </td>
+        <td>
+            @Html.ActionLink(item.tip12.ToString(), "AdaugaPeBilet", new { id = item.ID, cota = item.tip12 })            
+        </td>
+        <td>
+            @Html.ActionLink("+", "Details", new { id = item.ID })
+        </td>
+
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ID }) |
+            @*@Html.ActionLink("Details", "Details", new { id=item.ID }) |*@
+            @Html.ActionLink("Delete", "Delete", new { id=item.ID })   
+            @*@Html.ActionLink("Adauga meci", "AdaugaPeBilet", new { id = item.ID, cota = item.castigaAmbeleReprize2})*@
+        </td>
+    </tr>
+}
+
+</table>
+
+
+<h3><p> @Html.ActionLink("Afiseaza bilet", "AfiseazaBiletVirtual") </p></h3>

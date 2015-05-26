@@ -1,0 +1,42 @@
+﻿@model SitePariuri.Models.Meci
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<fieldset>
+    <legend>Meci</legend>
+    <div class="editor-label">
+        <b>@Html.Name("Codul meciului") </b>
+    </div>
+    <div class="editor-field">
+        @Html.EditorFor(model => model.codMeci)
+        @Html.ValidationMessageFor(model => model.codMeci)
+    </div>
+
+    <div class="editor-label">
+        <b>@Html.Name("Data meciului") </b>
+    </div>
+    <div class="editor-field">
+        @Html.EditorFor(model => model.data)
+        @Html.ValidationMessageFor(model => model.data)
+    </div>
+
+    <div class="editor-label">
+        <b>@Html.Name("Echipele meciului") </b>
+    </div>
+    <div class="editor-field">
+        @Html.EditorFor(model => model.echipe)
+        @Html.ValidationMessageFor(model => model.echipe)
+    </div>
+</fieldset>
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    <p>
+        <input type="submit" value="Delete" /> |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+}

@@ -1,0 +1,135 @@
+﻿@model SitePariuri.Models.Meci
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>@Html.DisplayFor(model => model.echipe)</h2>
+
+<fieldset>
+    <legend>Meci</legend>
+
+    <table>
+        <tr><th></th><th><b>@Html.Name("Principale") </b></th></tr>
+        <tr>
+            <th><b>@Html.Name("Cod") </b></th>
+            <th><b>@Html.Name("Data") </b></th>
+            <th><b>@Html.Name("Echipe") </b></th>
+            <th><b>@Html.Name("1") </b></th>
+            <th><b>@Html.Name("2") </b></th>
+            <th><b>@Html.Name("X") </b></th>
+            <th><b>@Html.Name("1X") </b></th>
+            <th><b>@Html.Name("X2") </b></th>
+            <th><b>@Html.Name("12") </b></th>         
+        </tr>
+        <tr>
+            <td>@Html.DisplayFor(model => model.codMeci)</td>
+            <td>@Html.DisplayFor(model => model.data)</td>
+            <td>@Html.DisplayFor(model => model.echipe)</td>
+            <td>@Html.ActionLink(Model.tip1.ToString(), "AdaugaPeBilet", new { id = Model.ID, cota = Model.tip1 })</td>
+            <td>@Html.ActionLink(Model.tip2.ToString(), "AdaugaPeBilet", new { id = Model.ID, cota = Model.tip2 })</td>
+            <td>@Html.ActionLink(Model.tipX.ToString(), "AdaugaPeBilet", new { id = Model.ID, cota = Model.tipX })</td>
+            <td>@Html.ActionLink(Model.tip1X.ToString(), "AdaugaPeBilet", new { id = Model.ID, cota = Model.tip1X })</td>
+            <td>@Html.ActionLink(Model.tipX2.ToString(), "AdaugaPeBilet", new { id = Model.ID, cota = Model.tipX2 })</td>
+            <td>@Html.ActionLink(Model.tip12.ToString(), "AdaugaPeBilet", new { id = Model.ID, cota = Model.tip12 })</td>
+        </tr>
+    </table>
+
+    <table>
+        <tr><th></th><th><b>@Html.Name("Pauza Sau Final") </b></th></tr>
+        <tr>
+            <th><b>@Html.Name("Cod") </b></th>
+            <th><b>@Html.Name("Data") </b></th>
+            <th><b>@Html.Name("Echipe") </b></th>
+            <th><b>@Html.Name("1") </b></th>
+            <th><b>@Html.Name("X") </b></th>
+            <th><b>@Html.Name("2") </b></th>
+        </tr>
+        <tr>
+            <td>@Html.DisplayFor(model => model.codMeci)</td>
+            <td>@Html.DisplayFor(model => model.data)</td>
+            <td>@Html.DisplayFor(model => model.echipe)</td>
+            <td>@Html.ActionLink(Model.pauzaSauFinal1.ToString(), "AdaugaPeBilet", new { id = Model.ID, cota = Model.pauzaSauFinal1 })</td>
+            <td>@Html.ActionLink(Model.pauzaSauFinal2.ToString(), "AdaugaPeBilet", new { id = Model.ID, cota = Model.pauzaSauFinal2 })</td>
+            <td>@Html.ActionLink(Model.pauzaSauFinalX.ToString(), "AdaugaPeBilet", new { id = Model.ID, cota = Model.pauzaSauFinalX })</td>
+        </tr>
+    </table>
+
+    <table>
+        <tr><th></th><th><b>@Html.Name("Sub/Peste 2.5 goluri") </b></th></tr>
+        <tr>
+            <th><b>@Html.Name("Cod") </b></th>
+            <th><b>@Html.Name("Data") </b></th>
+            <th><b>@Html.Name("Echipe") </b></th>
+            <th><b>@Html.Name("-2.5") </b></th>
+            <th><b>@Html.Name("+2.5") </b></th>
+        </tr>
+        <tr>
+            <td>@Html.DisplayFor(model => model.codMeci)</td>
+            <td>@Html.DisplayFor(model => model.data)</td>
+            <td>@Html.DisplayFor(model => model.echipe)</td>
+            <td>@Html.ActionLink(Model.sub3Goluri.ToString(), "AdaugaPeBilet", new { id = Model.ID, cota = Model.sub3Goluri })</td>
+            <td>@Html.ActionLink(Model.peste3Goluri.ToString(), "AdaugaPeBilet", new { id = Model.ID, cota = Model.peste3Goluri })</td>       
+        </tr>
+    </table>
+
+    <table>
+        <tr><th></th><th><b>@Html.Name("Ambele Marcheaza") </b></th></tr>
+        <tr>
+            <th><b>@Html.Name("Cod") </b></th>
+            <th><b>@Html.Name("Data") </b></th>
+            <th><b>@Html.Name("Echipe") </b></th>
+            <th><b>@Html.Name("GG") </b></th>
+            <th><b>@Html.Name("NG") </b></th>
+        </tr>
+        <tr>
+            <td>@Html.DisplayFor(model => model.codMeci)</td>
+            <td>@Html.DisplayFor(model => model.data)</td>
+            <td>@Html.DisplayFor(model => model.echipe)</td>
+            <td>@Html.ActionLink(Model.ambeleMarcheaza.ToString(), "AdaugaPeBilet", new { id = Model.ID, cota = Model.ambeleMarcheaza })</td>
+            <td>@Html.ActionLink(Model.nuMarcheazaAmbele.ToString(), "AdaugaPeBilet", new { id = Model.ID, cota = Model.nuMarcheazaAmbele })</td>
+            @*<td>@Html.DisplayFor(model => model.ambeleMarcheaza)</td>
+            <td>@Html.DisplayFor(model => model.nuMarcheazaAmbele)</td>*@
+        </tr>
+    </table>
+
+    <table>
+        <tr><th></th><th><b>@Html.Name("Castiga ambele reprize") </b></th></tr>
+        <tr>
+            <th><b>@Html.Name("Cod") </b></th>
+            <th><b>@Html.Name("Data") </b></th>
+            <th><b>@Html.Name("Echipe") </b></th>
+            <th><b>@Html.Name("1") </b></th>
+            <th><b>@Html.Name("2") </b></th>
+        </tr>
+        <tr>
+            <td>@Html.DisplayFor(model => model.codMeci)</td>
+            <td>@Html.DisplayFor(model => model.data)</td>
+            <td>@Html.DisplayFor(model => model.echipe)</td>
+            <td>@Html.ActionLink(Model.castigaAmbeleReprize1.ToString(), "AdaugaPeBilet", new { id = Model.ID, cota = Model.castigaAmbeleReprize1 })</td>
+            <td>@Html.ActionLink(Model.castigaAmbeleReprize2.ToString(), "AdaugaPeBilet", new { id = Model.ID, cota = Model.castigaAmbeleReprize2 })</td>            
+        </tr>
+    </table>
+
+
+
+    @*
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.castigaAmbeleReprize1)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.castigaAmbeleReprize1)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.castigaAmbeleReprize2)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.castigaAmbeleReprize2)
+    </div>*@
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

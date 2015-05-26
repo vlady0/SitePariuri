@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+@section featured {
+    <section class="featured">
+        <div class="content-wrapper">
+            <hgroup class="title">               
+                <h2>Cea mai noua casa de pariuri</h2>
+                <p></p>
+                <li>@Html.ActionLink("Spre pagina principala", "Index", "Meci")</li> 
+            </hgroup>           
+        </div>
+    </section>
+}
+<h3>Iti sugeram urmatoarele:</h3>
+<ol class="round">
+    <li class="one">
+        <h5>Plasare bilet virtual</h5>
+        Cauta si adauga meciurile preferate pe biletul virtual.
+    </li>
+
+    <li class="two">
+        <h5>Verifica biletul virtual</h5>
+       Verifica biletul virtual: meciurile alese si cota finala.
+    </li>
+
+    <li class="three">
+        <h5>Exporta - Genereaza cod</h5>
+        Daca totul este in regula genereaza codul de mers la agentie.
+    </li>
+</ol>

@@ -1,0 +1,178 @@
+﻿@model SitePariuri.Models.Meci
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Adauga un nou meci</h2>
+<p></p>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Meci</legend>
+
+        <div class="editor-label">
+                <b>@Html.Name("Codul meciului") </b>
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.codMeci)
+            @Html.ValidationMessageFor(model => model.codMeci)
+        </div>
+
+        <div class="editor-label">
+            <b>@Html.Name("Data meciului") </b>
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.data)
+            @Html.ValidationMessageFor(model => model.data)
+        </div>
+
+        <div class="editor-label">
+            <b>@Html.Name("Echipele meciului") </b>
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.echipe)
+            @Html.ValidationMessageFor(model => model.echipe)
+        </div>
+
+        <b>@Html.Name("Introduceti cotele pentru: ") </b>
+        <b></b>
+        <div class="editor-label">
+            <b>@Html.Name("1") </b>
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.tip1)
+            @Html.ValidationMessageFor(model => model.tip1)
+        </div>
+
+        <div class="editor-label">
+            <b>@Html.Name("2") </b>
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.tip2)
+            @Html.ValidationMessageFor(model => model.tip2)
+        </div>
+
+        <div class="editor-label">
+            <b>@Html.Name("X") </b>
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.tipX)
+            @Html.ValidationMessageFor(model => model.tipX)
+        </div>
+
+        <div class="editor-label">
+            <b>@Html.Name("1X") </b>
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.tip1X)
+            @Html.ValidationMessageFor(model => model.tip1X)
+        </div>
+
+        <div class="editor-label">
+            <b>@Html.Name("X2") </b>
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.tipX2)
+            @Html.ValidationMessageFor(model => model.tipX2)
+        </div>
+
+        <div class="editor-label">
+            <b>@Html.Name("12") </b>
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.tip12)
+            @Html.ValidationMessageFor(model => model.tip12)
+        </div>
+
+        <div class="editor-label">
+            <b>@Html.Name("PSF1") </b>
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.pauzaSauFinal1)
+            @Html.ValidationMessageFor(model => model.pauzaSauFinal1)
+        </div>
+
+        <div class="editor-label">
+            <b>@Html.Name("PSF2") </b>
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.pauzaSauFinal2)
+            @Html.ValidationMessageFor(model => model.pauzaSauFinal2)
+        </div>
+
+        <div class="editor-label">
+            <b>@Html.Name("PSFX") </b>
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.pauzaSauFinalX)
+            @Html.ValidationMessageFor(model => model.pauzaSauFinalX)
+        </div>
+
+        <div class="editor-label">
+            <b>@Html.Name("-2.5 goluri") </b>
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.sub3Goluri)
+            @Html.ValidationMessageFor(model => model.sub3Goluri)
+        </div>
+
+        <div class="editor-label">
+            <b>@Html.Name("+2.5 goluri") </b>
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.peste3Goluri)
+            @Html.ValidationMessageFor(model => model.peste3Goluri)
+        </div>
+
+        <div class="editor-label">
+            <b>@Html.Name("GG") </b>
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ambeleMarcheaza)
+            @Html.ValidationMessageFor(model => model.ambeleMarcheaza)
+        </div>
+
+        <div class="editor-label">
+            <b>@Html.Name("NG") </b>
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.nuMarcheazaAmbele)
+            @Html.ValidationMessageFor(model => model.nuMarcheazaAmbele)
+        </div>
+
+        <b>@Html.Name("Castiga ambele reprize: ") </b>
+        <b></b>
+
+        <div class="editor-label">
+            <b>@Html.Name("1/1") </b>
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.castigaAmbeleReprize1)
+            @Html.ValidationMessageFor(model => model.castigaAmbeleReprize1)
+        </div>
+
+        <div class="editor-label">
+            <b>@Html.Name("2/2") </b>
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.castigaAmbeleReprize2)
+            @Html.ValidationMessageFor(model => model.castigaAmbeleReprize2)
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
